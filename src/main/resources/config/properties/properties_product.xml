@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>product</comment>
+    <entry key="env">product</entry>
+    <entry key="jdbc.id">user_picture</entry>
+    <entry key="jdbc.pw">pictures</entry>
+    <entry key="jdbc.driver">com.mysql.jdbc.Driver</entry>
+    <entry key="jdbc.url">jdbc:mysql://localhost:3306/pictures?characterEncoding=UTF-8&amp;allowMultiQueries=true</entry>
+</properties>
