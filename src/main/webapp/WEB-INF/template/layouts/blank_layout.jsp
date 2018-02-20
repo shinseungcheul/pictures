@@ -6,6 +6,7 @@
 <html>
 <head>
     <title>Album</title>
+    <link rel="stylesheet" href="/resources/css/public.css"/>
 
 </head>
 <body>

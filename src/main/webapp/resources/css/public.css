@@ -1,0 +1,41 @@
+#menu_wrapper {
+  position: relative;
+  height:100%;
+}
+
+#layout_header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+  background-color: #255333;
+}
+
+#layout_Header:after{
+  display:block;
+  visibility:hidden;
+  height:0;content:'';
+  font-size:0;
+  clear:both;
+}
+
+#layout_Header .inner_head{
+  overflow:hidden;
+  position:relative;
+  width:1200px;
+  height:50px;
+  margin:0 auto;
+}
+
+#layout_Header h1{
+  float:left;
+  margin-top:16px;
+  font-weight:bold;
+  font-size:14px;
+}
+
+.content_main {
+  width: 1200px;
+  margin:120px auto 0;
+}

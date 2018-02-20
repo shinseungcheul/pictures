@@ -6,10 +6,13 @@
 <html>
 <head>
     <title>Album</title>
+    <link rel="stylesheet" href="/resources/css/public.css"/>
 </head>
 <body>
-<tiles:insertAttribute name="header" flush="true"/>
-<tiles:insertAttribute name="content" flush="true"/>
-<tiles:insertAttribute name="footer" flush="true"/>
+<div id="menu_wrapper">
+    <tiles:insertAttribute name="header" flush="true"/>
+    <tiles:insertAttribute name="content" flush="true"/>
+    <tiles:insertAttribute name="footer" flush="true"/>
+</div>
 </body>
 </html>
