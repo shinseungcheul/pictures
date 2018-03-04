@@ -8,6 +8,7 @@
     <title>Album</title>
     <link rel="stylesheet" href="/resources/css/public.css"/>
 
+
 </head>
 <body>
 <tiles:insertAttribute name="content" flush="true"/>

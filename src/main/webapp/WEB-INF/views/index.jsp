@@ -4,6 +4,9 @@
     <title>Title</title>
 </head>
 <body>
-index
+index-react
+<div id="react"></div>
+
+<script src="/resources/js/dist/bundle.js"></script>
 </body>
 </html>
