@@ -11,4 +11,9 @@ public class MainController {
     public String mainView (){
         return "index";
     }
+
+    @GetMapping("/album")
+    public String albumView() {
+        return "album/album/album";
+    }
 }
