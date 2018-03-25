@@ -90,17 +90,7 @@
                 </div>
             </a>
         </article>
-        <article class="style1">
-            <span class="image">
-                <img src="/resources/image/pic01.jpg" alt="">
-            </span>
-            <a href="generic.html">
-                <h2>Magna</h2>
-                <div class="content">
-                    <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-                </div>
-            </a>
-        </article>
+
     </div>
 
 </div>
